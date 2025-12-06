@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /news/
+Allow: /sports/
+Allow: /state/
+Allow: /international/
+Allow: /stock-news/
+Allow: /cricket-news/
+Allow: /language-news/
+Allow: /images/
+Disallow: /admin/
+Disallow: /search/
+Disallow: /login/
+Disallow: /register/
+Sitemap: https://www.talewire.com/sitemap.xml
+Sitemap: https://www.talewire.com/news-sitemap.xml
